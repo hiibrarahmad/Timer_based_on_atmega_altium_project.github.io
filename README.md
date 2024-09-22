@@ -11,14 +11,14 @@
 ## PCB Document Files
 
 ### Top View:
-![Top View](./PCB%20Documents/TIMER%20BASED%20ON%20ATMEGA%20TOP.png)
+![Top View](https://github.com/hiibrarahmad/Timer_based_on_atmega_altium_project.github.io/blob/main/PCB%20Documents/Screenshot%202024-09-23%20014904.png)
 
 ### Bottom View:
-![Bottom View](./PCB%20Documents/TIMER%20BASED%20ON%20ATMEGA%20BOT.png)
+![Bottom View](https://github.com/hiibrarahmad/Timer_based_on_atmega_altium_project.github.io/blob/main/PCB%20Documents/Screenshot%202024-09-23%20014904.png)
 
 ### Gerber Files:
-[View Gerber Files](./PCB%20Documents/pcb.pdf)
+![View Gerber Files](https://github.com/hiibrarahmad/Timer_based_on_atmega_altium_project.github.io/blob/main/PCB%20Documents/Screenshot%202024-09-23%20014920.png)
 
 ### Schematic:
-[View Schematic](./PCB%20Documents/sch.pdf)
+![View Schematic](https://github.com/hiibrarahmad/Timer_based_on_atmega_altium_project.github.io/blob/main/PCB%20Documents/Screenshot%202024-09-23%20014955.png)
 
