@@ -55,3 +55,9 @@ The **Schematic** provides an in-depth look at the connections and design of the
 ---
 
 This project demonstrates a professional approach to designing a Timer Alarm with ATMEGA, offering features for ease of use, efficient power management, and reusability. From the **Interactive BOM** to the **Gerber files**, this project is a comprehensive example of how to create a functional and efficient PCB project.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
